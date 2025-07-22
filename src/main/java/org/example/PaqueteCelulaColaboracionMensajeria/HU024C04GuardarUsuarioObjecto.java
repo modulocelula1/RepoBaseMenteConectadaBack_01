@@ -1,10 +1,10 @@
-package org.example;
+package org.example.PaqueteCelulaColaboracionMensajeria;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.Scanner;
 
-public class Main {
+public class HU024C04GuardarUsuarioObjecto {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
