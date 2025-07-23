@@ -16,7 +16,7 @@ public class HU021C04Confirmar {
         correoUsuario= scanner.nextLine();
 
         if (nombreUsuario.equals("") || correoUsuario.equals("")){
-            System.out.println("Error, validar que los campos no esten vacios ");
+            System.out.println("Error, validar que los campos no esten vacioss ");
 
         } else {
             System.out.println("felicidades " + nombreUsuario + " se ha registrado correctamente. ");
