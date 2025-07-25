@@ -17,5 +17,6 @@ public class HU021C04Confirmar {
             correoUsuario = scanner.nextLine();
         } while (correoUsuario.trim().isEmpty());
         System.out.println("felicidades! " + nombreUsuario + " se ha registrado correctamente ");
+        //hi
     }
 }
