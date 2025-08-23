@@ -16,6 +16,10 @@ public class HU020C01ModalEmergente {
             frame.setLocationRelativeTo(null);
             frame.setVisible(true);
 
+            UIManager.put("OptionPane.okButtonText", "Enviar");
+            UIManager.put("OptionPane.cancelButtonText", "Cancelar");
+
+
             // Solicita al usuario que ingrese una respuesta
             String respuesta = JOptionPane.showInputDialog(
                     frame,
