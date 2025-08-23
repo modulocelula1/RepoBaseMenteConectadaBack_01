@@ -50,7 +50,7 @@ public class HU020C01ModalEmergente {
                 );
             }
 
-            // Cierra la ventana principal después de la interacción.
+            // Cierra la ventana principal después de la interacción..
             frame.dispose();
         });
     }
